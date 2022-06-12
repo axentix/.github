@@ -1,1 +1,1 @@
-![Axentix banner](banner.jpg)
+![Axentix banner](./banner.jpg)
