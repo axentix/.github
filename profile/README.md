@@ -1,1 +1,1 @@
-![Axentix banner](/profile/banner.jpg)
+![Axentix banner](/profile/banner.jpg?v=1)
